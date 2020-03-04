@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name           Wikipedia printable redirect
-// @description    Wikipedia printable redirect
+// @description    Redirect all wikipedia links to their printable versions
 // @author         Denis Gordeev
 // @include        *wikipedia.org/wiki/*
 // @version        0.0.0.1
 // @grant          none
+// @namespace      https://github.com/denis-gordeev/wikipedia_printable_redirect
 // ==/UserScript==
 
 function test(url){
